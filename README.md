@@ -1,75 +1,102 @@
 <h1 align="center">Hi 👋, I'm Akbar Ali</h1>
-<h3 align="center">AI & ML Developer | Building intelligent systems that understand human experiences and solve real-world problems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akbaralipk&label=Profile%20views&color=0e75b6&style=flat" alt="akbaralipk" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Developer;ML+Enthusiast;Generative+AI+Builder;Computer+Vision+Developer;Building+Intelligent+AI+Systems" />
 </p>
+
+---
+
+## 👨‍💻 About Me  
+
+💡 Self-motivated **AI & ML developer** passionate about building intelligent systems that analyze human experiences and solve real-world problems.  
+
+⚡ Skilled in **Python, PyTorch, TensorFlow, Machine Learning, NLP, LLMs, Generative AI, Computer Vision, SQL, and Data Visualization**.  
+
+🎯 Actively working on **OrmaAI (AI Digital Diary)**, ML Bias Detection, and other AI projects to create impactful solutions.
+
+---
+
+## 🛠 Tech Stack  
+
+### 🚀 Programming & Databases  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 📊 Data Science & Machine Learning  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+
+### 👁 Computer Vision  
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🤖 AI / Generative AI  
+![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-222222?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00C7B7?style=for-the-badge)
+
+### 🌐 Web & Deployment  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Gradio](https://img.shields.io/badge/Gradio-FF9900?style=for-the-badge)
+
+---
+
+## 🔥 Featured Projects  
+
+### 📝 OrmaAI – AI Digital Diary
+- AI-powered diary that analyzes user entries with **sentiment analysis** and **RAG retrieval**.  
+- Users can **ask questions about past entries**, track mood patterns, and get AI-generated insights.  
+- Built with **Python, PyTorch, Hugging Face Transformers**.
+
+### ⚖ ML Bias Prediction
+- Supervised ML model to detect and mitigate **biased speech in text**.  
+- Uses NLP techniques for **classification of biased vs unbiased statements**.  
+- Provides insights for ethical AI applications.
+
+---
+
+## 📈 GitHub Analytics  
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akbaralipk" alt="akbaralipk" />
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akbaralipk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbaralipk&theme=tokyonight&hide_border=true" height="180"/>
 </p>
+
+---
+
+## 🏆 Certifications  
+
+✔ Generative AI with AWS – Analytics Vidhya  
+✔ Machine Learning & NLP Foundations – Online Courses  
+
+---
+
+## 🎓 Education  
+
+🎓 Diploma in Artificial Intelligence & Data Engineering  
+🎓 Higher Secondary Education – Computer Commerce Stream  
+
+---
+
+## 🌎 Languages  
+
+English | Malayalam  
+
+---
+
+## 📬 Contact Me  
 
 <p align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  <a href="https://www.linkedin.com/in/akbar-ali" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>  
   </a>
 </p>
 
----
+- 📧 Email: akbaraugust12@gmail.com  
 
-## 📫 Contact Me
-- Email: **akbaraugust12@gmail.com**  
-- Resume / Experience: [Google Drive Link](https://drive.google.com/drive/folders/1yHiQzSsjd_F3Bsl_-ouN15V8pM2ciHac?usp=sharing)
-
----
-
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/akbar-ali" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/akbarali9746" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-</p>
-
----
-
-## 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akbaralipk&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akbaralipk&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akbaralipk&" alt="GitHub Streak" />
-</p>
+⭐ *Building Intelligent AI Systems That Solve Real-World Problems*
